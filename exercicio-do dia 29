@@ -1,0 +1,6 @@
+numero = int(input("digitar um numero"))
+ total = 5
+ while numero > 10
+     total = 
+     numero = int(input("digitar um numero"))
+     print(total)
